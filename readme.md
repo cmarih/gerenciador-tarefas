@@ -19,19 +19,20 @@ Uma aplicação em Python que permite adicionar, listar, atualizar, completar e 
 ## ✉️ Agenda de Contatos
 ### ✅ Funcionalidades
     
-    - Adicionar contato com:
-        Nome
-        Telefone
-        Email
-    - Favorito (marcar/desmarcar)
-    - Listar contatos
-    - Editar contato
-    - Ver contatos favoritos
-    - Excluir contato
+- Adicionar contato com:
+
+    Nome
+
+    Telefone
+
+    Email
+- Favorito (marcar/desmarcar)
+- Listar contatos
+- Editar contato
+- Ver contatos favoritos
+- Excluir contato
 
 ### 📌 Execução
-
-1. Clone o repositório:
 
    ```bash
    python gerenciador_contatos.py
@@ -53,15 +54,13 @@ Uma aplicação em Python que permite adicionar, listar, atualizar, completar e 
 ## 🗂️ Agenda de Tarefas
 ### ✅ Funcionalidades
     
-    - Adicionar nova tarefa
-    - Listar tarefas com status (✅ concluída / ❌ pendente)
-    - Atualizar nome da tarefa
-    - Marcar tarefa como concluída
-    - Deletar todas as tarefas concluídas
+- Adicionar nova tarefa
+- Listar tarefas com status (✅ concluída / ❌ pendente)
+- Atualizar nome da tarefa
+- Marcar tarefa como concluída
+- Deletar todas as tarefas concluídas
 
 ### 📌 Execução
-
-1. Clone o repositório:
 
    ```bash
    python gerenciador_tarefas.py
